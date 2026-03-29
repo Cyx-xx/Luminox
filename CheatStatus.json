@@ -1,3 +1,3 @@
 [
-  { "Cheat": "Luminox", "Game": "Gorilla Tag", "Status": "Updating", "Type": "Injection", "Download": "https://github.com/Cyx-xx/Luminox/raw/refs/heads/main/Luminox.dll", "NameSpace": "StupidTemplate.Patches", "Class": "PatchHandler", "Method": "PatchAll" }
+  { "Cheat": "Luminox", "Game": "Gorilla Tag", "Status": "Updating", "Type": "Injection", "Download": "https://github.com/Cyx-xx/Luminox/raw/refs/heads/main/Luminox.dll", "NameSpace": "Loading", "Class": "Loader", "Method": "Load" }
 ]
