@@ -1,4 +1,4 @@
 [
-  { "Cheat": "Luminox", "Game": "Gorilla Tag", "Status": "Undetected", "Type": "Injection", "Download": "https://github.com/Cyx-xx/Luminox/raw/refs/heads/main/Luminox.dll", "NameSpace": "StupidTemplate.Patches", "Class": "PatchHandler", "Method": "PatchAll" },
+  { "Cheat": "Luminox", "Game": "Gorilla Tag", "Status": "Updating", "Type": "Injection", "Download": "https://github.com/Cyx-xx/Luminox/raw/refs/heads/main/Luminox.dll", "NameSpace": "StupidTemplate.Patches", "Class": "PatchHandler", "Method": "PatchAll" },
   { "Cheat": "Hamburbur", "Game": "Gorilla Tag", "Status": "Undetected", "Type": "Injection", "Download": "https://github.com/Cyx-xx/Luminox/raw/refs/heads/main/Hamburbur.dll", "NameSpace": "hamburbur", "Class": "Main", "Method": "Inject" }
 ]
